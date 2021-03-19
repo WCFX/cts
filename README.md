@@ -23,12 +23,6 @@ Alterações que afetam o sistema de construção ou dependências externas (esc
 referem-se a inclusão ou alteração somente de arquivos de documentação;
 ```
 
-## build:
-
-```sh
-Alterações que afetam o sistema de construção ou dependências externas (escopos de exemplo: gulp, broccoli, npm)
-```
-
 ## feat:
 
 ```sh
